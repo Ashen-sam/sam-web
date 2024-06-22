@@ -5,7 +5,7 @@ export default function Home() {
     <>
 
       <HeroSection />
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. In, totam.
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. In, totam.ashenn sam
     </>
   );
 }
